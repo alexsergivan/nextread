@@ -42,15 +42,7 @@ The architecture of NextRead.ai is designed for scalability, speed, and reliabil
 
 ### Architecture Diagram
 
-```mermaid
-graph TD
-    UserInterface[Frontend (User Interface)] -->|User Interactions| API[Backend API Layer]
-    API --> RecommendationEngine[AI Recommendation Engine]
-    API --> Database[Secure Database]
-    RecommendationEngine --> ExternalAPIs[External Book APIs]
-    Database -->|Data Storage| RecommendationEngine
-    ExternalAPIs -->|Book Metadata, Reviews, Ratings| RecommendationEngine
-```
+WIP
 
 ---
 
