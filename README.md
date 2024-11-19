@@ -1,0 +1,2 @@
+# nextread
+NextRead.Ai architecture
